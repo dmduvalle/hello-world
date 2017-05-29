@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Aloha and konnichi wa, mis amigos!
+
